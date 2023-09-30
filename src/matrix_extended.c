@@ -41,6 +41,8 @@ int main() {
             }
         } else printf("n/a");
     } else printf("n/a");
+
+    return 0;
 }
 
 void mode1(int M, int N) {
